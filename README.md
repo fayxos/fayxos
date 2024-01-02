@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">I’m a 18 years old student from Germany. I have been programming in my free time for 4 years now.</h3>
+<h3 align="center">I’m a 19 years old student from Germany. I have been programming in my free time for 5 years now.</h3>
 
 - 🔭 I’m currently working on [Schillerando](https://github.com/Schillerando/schillerando)
 
